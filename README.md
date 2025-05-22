@@ -1,5 +1,4 @@
-# Title
-Smart Irrigation System with Environmental Monitoring using Arduino
+# Title: Smart Irrigation System with Environmental Monitoring using Arduino
 
 # Idea of Project
 This project presents a smart and autonomous irrigation system that aims to optimize water usage while maintaining ideal environmental conditions for plant growth. With growing concerns about water scarcity and the need for sustainable agriculture, this system provides a reliable solution by automatically watering plants only when needed, based on real-time soil moisture, temperature, and humidity data. Additionally, it activates cooling fans to regulate microclimate conditions when temperature or humidity levels exceed pre-defined thresholds.
